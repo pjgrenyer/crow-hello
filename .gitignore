@@ -1,4 +1,6 @@
 build/
+.last-push.log
+.last-image
 .DS_Store
 .vscode/
 .idea/
